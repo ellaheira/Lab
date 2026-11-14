@@ -42,7 +42,8 @@ def show_menu():
     print("1. Seconds -> Hours, Minutes, Seconds")
     print("2. Hours, Minutes, Seconds -> Seconds")
     print("3. 24-hour -> 12-hour format")
-    print("4. 12-hour 
+    print("4. 12-hour -> 24-hour format")
+print("5. Exit")
 # ----- Main program ----
 while True:
     show_menu()
